@@ -8,7 +8,7 @@ I mostly worked in java, Spring boot, Mocroservices and cloud bassed technologie
 
 <h3>How to rach out to me</h3>
  <ul>
-    <li>Visit my <a  style="text-decoration:none" href="www.codeadiction.com">website</a></li>
+    <li>Visit my <a  style="text-decoration:none" href="https://codeadiction.com">website</a></li>
     <li>Reach out to me in <a style="text-decoration:none" href="https://www.linkedin.com/in/mohd-salman-420895141/"> Linkedin </a></li>
     <li>Email me at mskhan8853@gmail.com</li>
   </ul>
