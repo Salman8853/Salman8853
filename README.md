@@ -4,7 +4,7 @@ I love to work in hybrid as well as remote working models.</br></br>
 I mostly worked in java, Spring boot, Mocroservices and cloud bassed technologies.<br><br>
 ![java](https://github.com/Salman8853/Salman8853/assets/35671846/d0ac7b07-b6f5-49e2-8d46-e2e4f8f35659)  ![fTL08u_H_400x400](https://github.com/Salman8853/Salman8853/assets/35671846/eb027434-76cc-43b2-83ed-71187bb7b8c7)  ![Spring_Boot svg](https://github.com/Salman8853/Salman8853/assets/35671846/be04180b-914e-40da-a309-b1836d0e5e83) <br>
 ![download](https://github.com/Salman8853/Salman8853/assets/35671846/34224939-951c-47c3-bef6-872c92958923)  ![docker](https://github.com/Salman8853/Salman8853/assets/35671846/74d4ba35-5301-4391-a155-0aa6b4e59bb8)
-![Jenkins](https://github.com/Salman8853/Salman8853/assets/35671846/4faf3c59-69dc-4a95-8463-0a177ab55563)![aws cloud](https://github.com/Salman8853/Salman8853/assets/35671846/1b9f1e9e-463f-4337-973b-5407e86bdc9b)
+![aws cloud](https://github.com/Salman8853/Salman8853/assets/35671846/1b9f1e9e-463f-4337-973b-5407e86bdc9b)
 
 <br>  <br> 
 
