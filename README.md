@@ -30,10 +30,10 @@
 ### Social
 ---
 
-<a href="https://github.com/Salman8853"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/ac71eca2-fb22-4343-ab48-8f8b1e118948" alt="icon | Github" width=”21px”/></a>
-<a href="https://www.linkedin.com/in/mohd-salman-420895141/"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/6b717829-3438-45a6-9fa6-8aa0476b21d6" alt="icon | LinkedIN" width=”21px”/></a>
-<a href="https://medium.com/@mskhan8853"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/a12d7d31-25d1-4652-8fae-85e457e6c229" alt="icon | Medium" width=”21px”/></a>
-<a href="https://codeadiction.com"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/c3057158-3b0f-4662-b095-4e8d42525845" alt="icon | Website" width=”21px”/></a>
+<a href="https://github.com/Salman8853" target="_blank"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/ac71eca2-fb22-4343-ab48-8f8b1e118948" alt="icon | Github" width=”21px”/></a>
+<a href="https://www.linkedin.com/in/mohd-salman-420895141/" target="_blank"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/6b717829-3438-45a6-9fa6-8aa0476b21d6" alt="icon | LinkedIN" width=”21px”/></a>
+<a href="https://medium.com/@mskhan8853" target="_blank"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/a12d7d31-25d1-4652-8fae-85e457e6c229" alt="icon | Medium" width=”21px”/></a>
+<a href="https://codeadiction.com" target="_blank"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/c3057158-3b0f-4662-b095-4e8d42525845" alt="icon | Website" width=”21px”/></a>
 
 
 
