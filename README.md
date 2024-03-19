@@ -24,7 +24,7 @@
 - :star:  I am working In Volkswagen It Services
 - :rocket: I love to Travel and Working in new Ideas
 - 🌠  Fun Fact: I love to Cook Food
-- 🤝 Reach Out to me at mskhan8853@g,ail.com
+- 🤝 Reach Out to me at mskhan8853@gmail.com
 
 
 ### Social
@@ -34,25 +34,6 @@
 <a href="https://www.linkedin.com/in/mohd-salman-420895141/"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/6b717829-3438-45a6-9fa6-8aa0476b21d6" alt="icon | LinkedIN" width=”21px”/></a>
 <a href="https://medium.com/@mskhan8853"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/a12d7d31-25d1-4652-8fae-85e457e6c229" alt="icon | Medium" width=”21px”/></a>
 <a href="https://codeadiction.com"><img align="left" src="https://github.com/Salman8853/Salman8853/assets/35671846/c3057158-3b0f-4662-b095-4e8d42525845" alt="icon | Website" width=”21px”/></a>
-
-
-
-
-<h3>How to rach out to me</h3>
- <ul>
-    <li>Visit my <a  style="text-decoration:none" href="https://codeadiction.com">website</a></li>
-    <li>Reach out to me in <a style="text-decoration:none" href="https://www.linkedin.com/in/mohd-salman-420895141/"> Linkedin </a></li>
-    <li>Email me at mskhan8853@gmail.com</li>
-  </ul>
-
-
-
-
-
-
-
-
-
 
 
 
